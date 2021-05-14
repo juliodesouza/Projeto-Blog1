@@ -1,9 +1,4 @@
-header{
-  width: 1024;
-  margin: 25px auto;
-
-  display: flex;
-  flex-direction: row;
+header section {  
   justify-content: space-between;
   align-items: center;  
 }
